@@ -3,6 +3,10 @@
   "version": "0.1.10",
   "private": false,
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spencer-shadley/publish-npm-example.git"
+  },
   "main": "dist/index.js",
   "module": "dist/index.js",
   "babel": {
